@@ -1,5 +1,5 @@
-# Spreadsheet Analysis Report
-I analyzed a dataset of  England soccer games of the top four tiers from 1888 to 2020. The dataset originated from a Github published by DataHub, an organization that focuses on data management solutions. The format of the original data file that I downloaded was in .txt format. 
+# Analysis Report of English Football Games From 1888 to 2020
+I analyzed a dataset of football games from the top four tiers in England from 1888 to 2020. The dataset originated from a Github published by DataHub, an organization that focuses on data management solutions. The format of the original data file that I downloaded was in .txt format. 
 
 Below is an example of the dataset in its original format in table form:
 
